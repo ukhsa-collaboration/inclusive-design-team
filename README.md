@@ -4,6 +4,7 @@ Inclusive design and accessibility guidance and resources from UKHSA's inclusive
 
 ## Resources
 - [Accessible PowerPoint presentations](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/accessible-powerpoint-presentations.md)
+- [Co-design articles](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/co-design-articles.md)
 
 ## Blog posts
 
