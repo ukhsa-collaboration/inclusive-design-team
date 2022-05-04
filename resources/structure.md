@@ -12,11 +12,13 @@ We work across organisations including NHS Digital, NHS.UK and GOV.UK.
 ## Team structure
 
 - Head of design
--- Lead user researcher
--- Team of user researchers (1 to 4)
--- Lead service designer
--- Team of service designers (1 to 2)
--- Lead accessibility specialist
--- Team of Accessibility specialists (1 to 2)
--- Product Owner
--- Business Analyst
+  - Lead user researcher
+      - Team of user researchers (1 to 4)
+  - Lead service designer
+    - Team of service designers (1 to 2)
+  - Lead accessibility specialist
+    - Team of Accessibility specialists (1 to 2)
+  - Lead content designer
+    - Team of content designers  (1 to 2)
+  - Product owner
+    - Business analyst
