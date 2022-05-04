@@ -22,3 +22,10 @@ We work across organisations including NHS Digital, NHS.UK and GOV.UK.
     - Team of content designers  (1 to 2)
   - Product owner
     - Business analyst
+
+## Our focus
+
+- Designing services that include everyone.
+- Making sure existing channels are accessible, but also providing alternative digital and physical routes to meet specific, unmet access needs.
+- Focusing on excluded groups, and people at risk of health inequality. Including, but not only, people with disabilities and long term health conditions.
+- Working to include users in the design process.
