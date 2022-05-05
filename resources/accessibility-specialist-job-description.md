@@ -1,4 +1,4 @@
-# Accessibility Specialist Job Description
+# Accessibility specialist job description
 
 ## The role 
 
