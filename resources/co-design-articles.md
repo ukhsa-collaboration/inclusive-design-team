@@ -10,3 +10,4 @@
 - https://publicpolicydesign.blog.gov.uk/2021/08/05/are-you-making-a-bid-for-design/ 
 - https://services.blog.gov.uk/2021/03/23/from-user-centred-design-to-co-design/ 
 - https://blog.barnar.do/co-designing-with-children-and-young-people-9853bd243dbe 
+- https://www.linkedin.com/pulse/from-design-co-design-how-do-we-build-capability-ka-mckercher
