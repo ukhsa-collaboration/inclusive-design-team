@@ -8,3 +8,6 @@ Inclusive design and accessibility resources from UKHSA's inclusive design team.
 - [Blog posts](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/blog-posts.md)
 - [Co-design articles](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/co-design-articles.md)
 - [Excluded groups](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/excluded-groups.md)
+
+## Contributers 
+- [Benjy Stanton](https://twitter.com/benjystanton)
