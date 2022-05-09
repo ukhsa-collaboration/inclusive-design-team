@@ -4,6 +4,20 @@ By [David Etheridge](https://www.linkedin.com/in/davidmetheridge/), Service Desi
 
 [Credit to Ben Carpenter](https://gds.blog.gov.uk/2019/03/26/understanding-all-the-barriers-service-users-might-face/)
 
+## The 11 barriers
+
+1. [Awareness](#awareness)
+2. [Time](#time)
+3. [Finance](#finance)
+4. [Access](#access)
+6. [Interface / interaction skills](#interace--interaction-skills)
+7. [Self confidence](#self-confidence)
+8. [Comprehension](#comprehension)
+9. [Emotional State](#emotional-state)
+10. [Trust](#trust)
+11. [Evidence](#evidence)
+12. [Enthusiasm](#enthusiasm)
+
 ***
 
 ## Awareness
