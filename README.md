@@ -23,5 +23,6 @@ Things we recommend.
 
 ## Contributors
 
-- [Katherine Moonan](https://www.linkedin.com/in/kathmoonan/)
 - [Benjy Stanton](https://twitter.com/benjystanton)
+- [David Etheridge](https://www.linkedin.com/in/davidmetheridge/)
+- [Katherine Moonan](https://www.linkedin.com/in/kathmoonan/)
