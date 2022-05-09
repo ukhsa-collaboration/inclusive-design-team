@@ -22,4 +22,5 @@ Things we recommend.
 
 ## Contributors
 
+- [Katherine Moonan](https://www.linkedin.com/in/kathmoonan/)
 - [Benjy Stanton](https://twitter.com/benjystanton)
