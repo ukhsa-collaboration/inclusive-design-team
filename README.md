@@ -4,7 +4,7 @@ Inclusive design and accessibility resources from UKHSA's inclusive design team.
 
 ## Resources
 
-Things we've made as a team.
+Things we've written.
 
 - [Accessibility specialist job description](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/accessibility-specialist-job-description.md)
 - [Accessible PowerPoint presentations](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/accessible-powerpoint-presentations.md)
