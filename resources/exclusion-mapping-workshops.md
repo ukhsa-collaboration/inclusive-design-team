@@ -1,6 +1,6 @@
 # How to run exclusion mapping workshops
 
-By David Etheridge, Service Designer
+By [David Etheridge](https://www.linkedin.com/in/davidmetheridge/), Service Designer
 
 ***
 
