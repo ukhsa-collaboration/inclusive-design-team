@@ -11,6 +11,7 @@ Things we've made as a team.
 - [Blog posts](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/blog-posts.md)
 - [Excluded groups](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/excluded-groups.md)
 - [Structure of the team](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/structure.md)
+- [Universal barriers](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/universal-barriers.md)
 - [Vision for the team](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/vision-for-the-team.md)
 
 ## Further reading
