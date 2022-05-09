@@ -41,7 +41,7 @@ Our hypothesis is that by using barriers as a frame to assess our services, we c
 2. Time
 3. Finance
 4. Access
-5. Interace / interaction skills
+5. Interface / interaction skills
 6. Self confidence
 7. Comprehension
 8. Emotional State
