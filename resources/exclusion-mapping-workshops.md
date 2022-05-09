@@ -52,3 +52,20 @@ Our hypothesis is that by using barriers as a frame to assess our services, we c
 [More about Universal Barriers](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/universal-barriers.md)
 
 ***
+
+## 2. Workshop 1: Identifying your service’s barriers
+
+**Purpose**: to identify where there are barriers and pain points in a service.
+
+**Desired outcome**: to have a set of identified pain points in the service.
+
+1. Review the agenda and confirm basic assumptions to make sure everyone is on the same page with scope and how we’re reviewing the service.
+2. Speak through the universal barriers framework and explain what it is to the audience.
+3. Go through their research that’s aligned to the universal barriers framework and provide an opportunity to ask if participants wish to add to the framework. 
+4. Determine which three barriers the group want to focus on for the workshop.
+5. Review the existing "as is" user journey of the service from the perspective of those three barriers and identify pain points along the journey.
+
+***
+
+
+
