@@ -48,3 +48,5 @@ Our hypothesis is that by using barriers as a frame to assess our services, we c
 9. Trust
 10. Evidence
 11. Enthusiasm
+
+***
