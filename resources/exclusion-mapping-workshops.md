@@ -49,4 +49,6 @@ Our hypothesis is that by using barriers as a frame to assess our services, we c
 10. Evidence
 11. Enthusiasm
 
+[More about Universal Barriers](https://github.com/dhsc-customer/inclusive-design-team/blob/main/resources/universal-barriers.md)
+
 ***
